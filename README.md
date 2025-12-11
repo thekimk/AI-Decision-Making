@@ -8,6 +8,8 @@
   - 강의의 전반적인 이론/실습, 오탈자를 포함한 이슈나 질문, 그리고 추가적 강의나 프로젝트 협업 문의는 [카카오톡채널](http://pf.kakao.com/_Exfqqb), [thekimk.kr@gmail.com](mailto:thekimk.kr@gmail.com), [032-835-8525](tel:+82328358525)로 문의해 주시면 최대한 빠르게 안내 및 업데이트 하겠습니다.
   - 본 저서 이외의 상세한 강의자료들이나 저의 생각들은 <a href="https://github.com/thekimk/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>에 모두 공개되어 있습니다.
 
+---
+
   > <p float="left">
   >   <img src="https://github.com/user-attachments/assets/be4900c1-c780-493a-858f-e22d5abb2c12" width="1000" style="margin-right: 10px;" />
   > </p>
