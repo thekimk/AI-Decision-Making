@@ -1,6 +1,6 @@
 ## ✔️ AI-Decision-Making
 
-> 저서 `AI의사결정` 본문 업데이트와 실습을 위한 공간입니다.
+> 저서 `AI의사결정` 소개와 실습을 위한 공간입니다.
 
 - **강사소개:** 김경원 교수 (<a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>)
 - **공지사항:**
