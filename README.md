@@ -9,7 +9,7 @@
   - 본 저서 이외의 상세한 강의자료들이나 저의 생각들은 <a href="https://github.com/thekimk/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>에 모두 공개되어 있습니다.
 
   > <p float="left">
-  >   <img src="https://github.com/user-attachments/assets/be4900c1-c780-493a-858f-e22d5abb2c12" width="600" style="margin-right: 10px;" />
+  >   <img src="https://github.com/user-attachments/assets/be4900c1-c780-493a-858f-e22d5abb2c12" width="900" style="margin-right: 10px;" />
   > </p>
    
 ---
