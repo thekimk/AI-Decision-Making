@@ -1,6 +1,6 @@
 ## ✔️ AI-Decision-Making
 
-> 저서 `AI의사결정` 소개와 실습을 위한 공간입니다.
+> 저서 `AI의사결정` 소개와 실습을 위한 공간입니다. **(ISBN: 979-11-89007-34-8)**
 
 - **강사소개:** 김경원 교수 (<a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=nHPe-4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="120"/></a>)
 - **공지사항:**
