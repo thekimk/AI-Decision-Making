@@ -1,6 +1,6 @@
 ## ✔️ AI-Decision-Making
 
-> 저서 [`AI의사결정`](https://smartstore.naver.com/aladinstores/products/12931036868?NaPm=ct%3Dmkghzj88%7Cci%3Ddb90bb0b1f28081703dff95f1beeffcc7f279785%7Ctr%3Dboksl1%7Csn%3D4399901%7Chk%3D003c8087d9aa4174b56f5044bd7eab09e21e1fbf&nl-au=fe240b50ce354bd59bee957538e14f19) 소개와 실습을 위한 공간입니다. **(ISBN: 979-11-89007-34-8)**
+> 저서 [AI의사결정](https://smartstore.naver.com/aladinstores/products/12931036868?NaPm=ct%3Dmkghzj88%7Cci%3Ddb90bb0b1f28081703dff95f1beeffcc7f279785%7Ctr%3Dboksl1%7Csn%3D4399901%7Chk%3D003c8087d9aa4174b56f5044bd7eab09e21e1fbf&nl-au=fe240b50ce354bd59bee957538e14f19) 소개와 실습을 위한 공간입니다. **(ISBN: 979-11-89007-34-8)**
 
 - **강사소개:** 김경원 교수 (<a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=nHPe-4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" width="120"/></a>)
 - **공지사항:**
